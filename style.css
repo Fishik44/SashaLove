@@ -1,0 +1,19 @@
+#ButtonClick1
+{
+    padding: 10px;
+    background-color: dodgerblue;
+    border: 2px solid #333;
+    border-radius: 5px;
+    color: #fff;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(182, 18, 231);
+}
+p{
+    text-align: center;
+}
